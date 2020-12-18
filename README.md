@@ -1,7 +1,7 @@
 # ITIS 6177 Final Project
 ### by Jay Dave
 
-This is the final project assignment for ITIS 6177
+This is the final project assignment for ITIS 6177 that was to create an API using [Azure Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/)
 
 ## Sentiment Analysis
 Use this to find out what people think of your brand/topic by mining the text for clues about positive or negative sentiment.
